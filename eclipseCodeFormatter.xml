@@ -4,14 +4,14 @@
       <list>
         <Settings>
           <option name="defaultSettings" value="true" />
-          <option name="enableJSFormatting" value="true" />
+          <option name="enableJSFormatting" value="false" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1443516601783" />
           <option name="importOrderConfigFilePath" value="$APPLICATION_HOME_DIR$/conf/MSF.importorder" />
           <option name="importOrderFromFile" value="true" />
           <option name="name" value="default" />
           <option name="pathToConfigFileJS" value="$APPLICATION_HOME_DIR$/conf/DAF-javascript.xml" />
-          <option name="pathToConfigFileJava" value="$APPLICATION_HOME_DIR$/MSF.xml" />
+          <option name="pathToConfigFileJava" value="$APPLICATION_HOME_DIR$/conf/MSF.xml" />
           <option name="selectedJavaProfile" value="MSF" />
           <option name="selectedJavaScriptProfile" value="DAF-Theme" />
         </Settings>
