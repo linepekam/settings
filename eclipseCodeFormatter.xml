@@ -3,7 +3,7 @@
     <option name="settingsList">
       <list>
         <Settings>
-          <option name="defaultSettings" value="true" />
+          <option name="defaultSettings" value="false" />
           <option name="enableJSFormatting" value="true" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1443516601783" />
