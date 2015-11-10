@@ -1,1 +1,7 @@
-<code_scheme name="Default (2)" />
+<code_scheme name="Default (2)">
+  <codeStyleSettings language="JAVA">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="5" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
