@@ -131,6 +131,13 @@
         <option value="https://svn.bfs-intra.net/scm/svn/MSF/DAF/daf-product" />
       </list>
     </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://svn.bfs-intra.net/scm/svn/MSF" />
+        <option value="https://svn.bfs-intra.net/scm/svn/Rating/crrp-product" />
+        <option value="https://svn.bfs-intra.net/scm/svn/MSF/DAF/daf-product" />
+      </list>
+    </option>
     <option name="mySvnCommandLine" value="C:\Program Files\SlikSvn\bin\svn.exe" />
   </component>
   <component name="SvnBranchMapperManager">
