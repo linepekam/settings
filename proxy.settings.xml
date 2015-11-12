@@ -1,7 +1,0 @@
-<application>
-  <component name="HttpConfigurable">
-    <option name="PROXY_HOST" value="cache.innovations.de" />
-    <option name="PROXY_PORT" value="3128" />
-    <option name="PROXY_EXCEPTIONS" value="*.bosch-fs.com" />
-  </component>
-</application>
