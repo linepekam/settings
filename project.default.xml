@@ -20,8 +20,12 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
       </component>
       <component name="NamedScopeManager">
         <order />
@@ -41,9 +45,7 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-        <property name="last_opened_file_path" value="C:/Program Files/SlikSvn/bin/svn.exe" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/projects" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -116,7 +118,7 @@
           <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
           <option name="OUTPUT_DIRECTORY" />
           <option name="ANNOTATION_TYPE" />
           <option name="ENV_VARIABLES" />
@@ -133,10 +135,23 @@
         </configuration>
       </component>
       <component name="SvnConfiguration">
-        <configuration>C:\Users\linkan01\AppData\Roaming\Subversion</configuration>
+        <configuration>C:\Users\MIB1IMB\AppData\Roaming\Subversion</configuration>
       </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>
