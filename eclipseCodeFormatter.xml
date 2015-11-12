@@ -12,7 +12,7 @@
           <option name="name" value="default" />
           <option name="pathToConfigFileJS" value="$APPLICATION_HOME_DIR$/conf/DAF-javascript.xml" />
           <option name="pathToConfigFileJava" value="$APPLICATION_HOME_DIR$/conf/MSF.xml" />
-          <option name="selectedJavaProfile" value="MSF" />
+          <option name="selectedJavaProfile" value="Innovations" />
           <option name="selectedJavaScriptProfile" value="DAF-Theme" />
         </Settings>
       </list>
