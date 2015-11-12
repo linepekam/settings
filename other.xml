@@ -15,9 +15,6 @@
       </profile-state>
     </entry>
   </component>
-  <component name="CertificateManager">
-    <option name="ACCEPT_AUTOMATICALLY" value="true" />
-  </component>
   <component name="CodeStyleSchemesUIConfiguration">
     <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Desktop/MSF.xml" />
   </component>
@@ -131,11 +128,6 @@
       <list>
         <option value="https://svn.bfs-intra.net/scm/svn/MSF" />
         <option value="https://svn.bfs-intra.net/scm/svn/Rating/crrp-product" />
-        <option value="https://svn.bfs-intra.net/scm/svn/MSF/DAF/daf-product" />
-      </list>
-    </option>
-    <option name="myTypedURLs">
-      <list>
         <option value="https://svn.bfs-intra.net/scm/svn/MSF/DAF/daf-product" />
       </list>
     </option>
